@@ -1,4 +1,4 @@
-# Java Console Banking System
+# JBanking System with Java
 
 This is a simple **console-based banking application** implemented in Java.  
 It allows basic bank account management, including account creation, searching, deposits, withdrawals, and balance queries.  
